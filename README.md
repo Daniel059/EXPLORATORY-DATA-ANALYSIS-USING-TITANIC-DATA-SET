@@ -18,7 +18,9 @@ An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, v
 - [Multivariate Analysis](#multivariate-analysis)
 - [Survival Rate Analysis](#survival-rate-analysis)
 - [Conclusion](#conclusion)
+## Sample Visualization
 
+![Age Distribution of Passengers Histogram/KDE](tit_img/2.1.1.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
