@@ -14,12 +14,12 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <!-- Status -->
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+[![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/code/danielnzioki/exploratory-data-analysis-using-titanic-dataset-cy))
 
 
 
-**
-Project Description**
+
+##Project Description
 
 An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, visualize key features, and understand survival factors using Python (Pandas, Seaborn, Matplotlib).
 
