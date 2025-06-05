@@ -49,6 +49,8 @@ An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, v
 
 You can view and run the full analysis notebook on Kaggle:
 
-[![View on Kaggle](https://img.shields.io/badge/View-Kaggle-blue?logo=kaggle)]([your-colab-link](https://www.kaggle.com/code/danielnzioki/exploratory-data-analysis-using-titanic-dataset-cy))
+## 🚀 Live Notebook on Kaggle
+
+[![View on Kaggle](https://img.shields.io/badge/View_on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/danielnzioki/exploratory-data-analysis-using-titanic-dataset-cy)
 
 
