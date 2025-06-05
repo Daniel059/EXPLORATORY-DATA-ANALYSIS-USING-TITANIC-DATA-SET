@@ -45,8 +45,10 @@ An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, v
 ![Age Distribution by class Survival](tit_img/6.4.png)
 ![Feature Correlation with Survival](tit_img/6.5.png)
 
-##🚀 Live Notebook
+## 🚀Live Notebook
+
 You can view and run the full analysis notebook on Kaggle:
+
 [![View on Kaggle](https://img.shields.io/badge/View-Kaggle-blue?logo=kaggle)]([your-colab-link](https://www.kaggle.com/code/danielnzioki/exploratory-data-analysis-using-titanic-dataset-cy))
 
 
