@@ -1,4 +1,43 @@
 # EXPLORATORY-DATA-ANALYSIS-USING-TITANIC-DATA-SET
+## 📑 Table of Contents
+
+### 1. [Project Overview](#project-overview)  
+### 2. [Libraries Used](#libraries-used)  
+### 3. [EDA Workflow](#eda-workflow)
+- [Step 1: Initial Data Exploration](#step-1-initial-data-exploration)  
+  - Dataset Overview  
+  - Data Types and Missing Values  
+  - Summary Statistics  
+  - Column and Value Checks  
+- [Step 2: Univariate Analysis](#step-2-univariate-analysis)  
+  - Age Distribution  
+  - Embarked Port  
+  - Fare  
+  - Pclass  
+  - Gender  
+  - Survival Rate  
+- [Step 3: Bivariate Analysis](#step-3-bivariate-analysis)  
+  - Fare vs. Pclass  
+  - Age vs. Survival  
+  - Embarked vs. Survival  
+  - Gender vs. Survival  
+  - Family Size vs. Survival  
+- [Step 4: Multivariate Analysis](#step-4-multivariate-analysis)  
+  - Pclass, Age, Fare  
+  - Age Group, Sex, Pclass  
+  - Embarked, Pclass, Fare  
+  - Family Size, Pclass, Survival  
+- [Step 5: Outlier Detection](#step-5-outlier-detection)  
+  - Fare  
+  - Age  
+  - Family Size  
+  - Cabin  
+- [Step 6: Target Variable Analysis](#step-6-target-variable-analysis)  
+  - Survival Distribution  
+  - Key Influences  
+  - Combined Effects  
+  - Correlation Heatmap
+
 <!-- Language & Tools -->
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Used-informational?logo=numpy)
