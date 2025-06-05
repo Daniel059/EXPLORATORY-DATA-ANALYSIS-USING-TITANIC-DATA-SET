@@ -1,4 +1,23 @@
 # EXPLORATORY-DATA-ANALYSIS-USING-TITANIC-DATA-SET
+<!-- Language & Tools -->
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Used-informational?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-informational?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Used-informational?logo=seaborn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
+<!-- Data Source -->
+![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)
+
+<!-- License -->
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+<!-- Status -->
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
+
 **
 Project Description**
 
@@ -25,22 +44,4 @@ An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, v
 ![Age Distribution by Survival Status](tit_img/3.2.png)
 ![Age Distribution by class Survival](tit_img/6.4.png)
 ![Feature Correlation with Survival](tit_img/6.5.png)
-
-<!-- Language & Tools -->
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Used-informational?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Used-informational?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-informational?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-Used-informational?logo=seaborn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-
-<!-- Data Source -->
-![Kaggle Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)
-
-<!-- License -->
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-<!-- Status -->
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 
