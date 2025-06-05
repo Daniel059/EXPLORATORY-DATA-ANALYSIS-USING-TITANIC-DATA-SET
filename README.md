@@ -4,9 +4,7 @@ Project Description**
 
 An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, visualize key features, and understand survival factors using Python (Pandas, Seaborn, Matplotlib).
 
-##Table of Contents
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Loading the Dataset](#loading-the-dataset)
 - [Dataset Overview](#dataset-overview)
@@ -18,8 +16,8 @@ An Exploratory Data Analysis (EDA) of the Titanic dataset to uncover patterns, v
 - [Multivariate Analysis](#multivariate-analysis)
 - [Survival Rate Analysis](#survival-rate-analysis)
 - [Conclusion](#conclusion)
+  
 ## Sample Visualization
-
 ![Age Distribution of Passengers Histogram/KDE](tit_img/2.1.1.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
